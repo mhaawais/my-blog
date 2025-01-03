@@ -5,7 +5,7 @@ export default function FooterContactForm() {
     <form className="bg-accentDarkSecondary px-6 sm:px-8 lg:px-12 py-6 w-full md:w-1/2 ">
       <div className="w-full">
         <h2 className="text-3xl font-bold mb-5 text-dark text-center uppercase">
-          reach us
+          message
         </h2>
         <div className="flex flex-col sm:flex-row md:flex-col lg:flex-row gap-4 mb-4">
           <input

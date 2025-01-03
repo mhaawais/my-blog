@@ -10,11 +10,9 @@ export default function FooterLearn() {
         &nbsp;Learn for Free
       </h4>
       <Link
-        href={"https://www.youtube.com/@Em-Aar?sub_confirmation=1"}
-        target="_blank"
+        href={"#"}
         className=" bg-dark text-light px-6 py-3 text-xl shadow-md shadow-accentDarkPrimary/30  rounded-lg  hover:bg-light hover:text-dark font-semibold w-auto text-center uppercase flex items-center gap-x-2 "
-      >
-        Watch on <Youtube className={"w-8 h-8 inline"} />
+      >Explore
       </Link>
     </section>
   );
